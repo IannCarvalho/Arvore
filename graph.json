@@ -1,0 +1,90 @@
+{
+  "name": "futebol feminino não",
+  "size": 13,
+  "children": [
+    {
+      "name": "tem",
+      "size": 6,
+      "children": [
+        {
+          "name": "a mesma",
+          "size": 2,
+          "children": [
+            {
+              "name": "proporção do masculino",
+              "size": 1
+            },
+            {
+              "name": "tradição , o mesmo apelo",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "emoção .",
+          "size": 1
+        },
+        {
+          "name": "graça",
+          "size": 2,
+          "children": [
+            {
+              "name": ". E a pergunta que fica é ...",
+              "size": 1
+            },
+            {
+              "name": "nenhuma",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "visibilidade nenhuma",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "ter",
+      "size": 2,
+      "children": [
+        {
+          "name": "a mesma visibilidade do masculino .",
+          "size": 1
+        },
+        {
+          "name": "isto ou aquilo ...",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "vende nada",
+      "size": 1
+    },
+    {
+      "name": "é",
+      "size": 3,
+      "children": [
+        {
+          "name": "tão",
+          "size": 2,
+          "children": [
+            {
+              "name": "valorizado como o masculino",
+              "size": 1
+            },
+            {
+              "name": "visado como o masculino",
+              "size": 1
+            }
+          ]
+        },
+        {
+          "name": "uma brincadeira .",
+          "size": 1
+        }
+      ]
+    }
+  ]
+}
